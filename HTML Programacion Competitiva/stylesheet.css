@@ -1,0 +1,221 @@
+.Titulo{
+    text-align: center;
+    
+    height:10em;
+    margin-top: 0%;;
+}
+
+.Titulo img {
+    float:left;
+    height: 90%;
+}
+.Indice {
+    display:flex;
+    justify-content: space-around;
+    border-color: blue;
+    border-style: solid;
+}
+body{
+    background-color: beige;
+    font-size: 1.3em;
+}
+.logo{
+    float:left;
+}
+h1{
+    font-size: 2.5em;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 1%;
+}
+.queEs h2{
+    text-align: center;
+}
+.queEs {
+    text-align: justify;
+    margin:5%;
+    padding:2%;
+    border-color: yellow;
+    border-style: solid;
+    border-radius: 12.5%;
+   
+}
+.p{
+    text-indent: 2em;
+}
+.Algoritmos{
+    margin:5%;
+    padding: 2%;
+    border-style: solid;
+    border-color: blue;
+    
+}
+.Estructuras{
+    margin:5%;
+    padding: 2%;
+    border-style: solid;
+    
+    
+    
+    
+    /*overflow: auto;*/
+    }
+    .divs {
+        display: flex;
+    }
+.imagenes{
+    width: 50%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+  
+}
+.imagenes p{
+    float:right;
+    margin-bottom: 10%;
+}
+.Estructuras img{
+    border-radius: 15%;
+    height: 200px;
+    width: 350px;
+    float:left;
+    margin-top: 15%;
+    margin-left: 5%;
+    
+    
+}
+.Indice h2{
+    font-size: 1.5em;;
+}
+.derecha{
+    /*margin-bottom: 10%;
+    margin-right: 25%;*/
+    rotate:45deg;
+    
+}
+
+.izquierda{
+    
+    rotate:-45deg;
+}
+.texto{
+    width: 50%;
+    height:1000% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+.divs{
+    display: flex;
+    flex-direction: row;
+}
+.Grafos{
+    border-style:solid;
+    
+    margin:5%;
+    padding:2%;
+    height: 85em;
+}
+h2{
+    text-align: center;
+    font-size: 2.5em;
+   
+}
+.Grafos h3{
+    font-size: 2em;
+}
+.Grafos img{
+    height: 15%;
+   
+}
+
+
+.Grafos p{
+    margin-left: 5%;
+
+}
+.Grafos video{
+    height: 15%;
+    width: 35%;
+    float:left;
+    margin-right: 5%;
+}
+
+.grafo{
+    float:left;
+}
+.h2der{
+    text-align: right;
+    margin-right: 3%;
+}
+.h2izq{
+    text-align: left;
+    margin-left:3%;
+}
+.h3der{
+    text-align: right;
+    margin-right: 3%;
+}
+.h3izq{
+    text-align: left;
+    margin-left:3%;
+    
+    
+}   
+.DFS{
+    padding:2%;
+    float:none;
+}
+.gifDFS{
+    float:left;
+   
+    margin-right: 5%;
+}
+.gifBFS{
+    float:right;
+    margin-left: 5%;
+
+}
+.pDijkstra{
+    
+  
+    margin-top: 0%;
+}
+.segTree{
+    border-style: solid;
+    margin:5%;
+    padding:2%;
+}
+.segTree{
+    text-align: center;
+}
+.segTree img{
+    
+    width: 45%;
+    float:left;
+    margin-right: 5%;
+}
+.competencias{
+    margin-left:5% ;
+    margin-right: 5%;
+    border-style: solid;
+    height: 75em;
+}
+.competencias p{
+    margin-left: 2%;
+    margin-right: 2%    ;
+}
+.competencias img {
+    width: 25%;
+  
+    margin-left: 2%;
+    margin-right: 2%    ;
+}
+.der{
+    float: right;
+    
+}
+.izq{
+    float:left;
+}
